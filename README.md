@@ -1,4 +1,4 @@
-# Tgbot.footballgame
+# Tgbot_FootballGame
 Just simple football game in TgBot
 
 
